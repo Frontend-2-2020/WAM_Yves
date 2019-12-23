@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-image: url("../src/assets/WAM_bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mole {
+  height: 30px;
+  width: 30px;
+}
